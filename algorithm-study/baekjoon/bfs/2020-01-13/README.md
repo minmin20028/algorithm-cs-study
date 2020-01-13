@@ -32,7 +32,7 @@ N×M크기의 배열로 표현되는 미로가 있다.
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_2178/lxxjn0_prob_2178.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)

@@ -40,7 +40,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_1012/lxxjn0_prob_1012.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)
