@@ -30,7 +30,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_1463/lxxjn0_prob_1463.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)
@@ -73,7 +73,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_9095/lxxjn0_prob_9095.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)

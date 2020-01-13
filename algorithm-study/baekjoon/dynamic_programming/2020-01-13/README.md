@@ -56,7 +56,7 @@ fibonacci(3)을 호출하면 다음과 같은 일이 일어난다.
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_1003/lxxjn0_prob_1003.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)
@@ -103,7 +103,7 @@ fibonacci(3)을 호출하면 다음과 같은 일이 일어난다.
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_2579/lxxjn0_prob_2579.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)

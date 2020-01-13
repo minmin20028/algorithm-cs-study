@@ -28,7 +28,7 @@ N이 주어졌을 때, N의 사이클의 길이를 구하는 프로그램을 작
 
 ### 문제 풀이
 
-- [lxxjn0](#)
+- [lxxjn0](./prob_1110/lxxjn0_prob_1110.cpp)
 - [Jeongfeel](#)
 - [minmin20028](#)
 - [sin222](#)
