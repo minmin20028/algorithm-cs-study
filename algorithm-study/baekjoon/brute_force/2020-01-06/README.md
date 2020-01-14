@@ -49,8 +49,8 @@ N = 7인 경우에 다음과 같은 상담 일정표를 보자.
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_14501/lxxjn0_prob_14501.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)
 
@@ -94,7 +94,7 @@ N = 7인 경우에 다음과 같은 상담 일정표를 보자.
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_6603/lxxjn0_prob_6603.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)
