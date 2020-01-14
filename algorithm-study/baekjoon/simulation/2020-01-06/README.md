@@ -34,8 +34,8 @@
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_1966/lxxjn0_prob_1966.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)
 
@@ -83,7 +83,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_14503/lxxjn0_prob_14503.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)

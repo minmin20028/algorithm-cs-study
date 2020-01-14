@@ -26,7 +26,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_2667/lxxjn0_prob_2667.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)

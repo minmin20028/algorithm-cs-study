@@ -20,8 +20,8 @@
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_1065/lxxjn0_prob_1065.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)
 
@@ -51,7 +51,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_2309/lxxjn0_prob_2309.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)

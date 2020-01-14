@@ -24,7 +24,7 @@
 
 ### 문제 풀이
 
-- [lxxjn0](./prob_1978/lxxjn0_prob_1978.cpp)
-- [Jeongfeel](#)
+- [lxxjn0](#)
+- [dusdn1702](#)
 - [minmin20028](#)
 - [sin222](#)
