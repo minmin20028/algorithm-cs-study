@@ -2,4 +2,4 @@
 
 ## [Algorithm Study](./algorithm-study/README.md)
 
-## [CS Study](#)
+## [CS Study](./cs-study/README.md)
