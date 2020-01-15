@@ -2,7 +2,7 @@
 
 ## Array List
 
-- [lxxjn0](#)
+- [lxxjn0](./array-list/lxxjn0/README.md)
 
 - [dusdn1702](#)
 
@@ -12,7 +12,7 @@
 
 ## Linked List
 
-- [lxxjn0](#)
+- [lxxjn0](./linked-list/lxxjn0/README.md)
 
 - [dusdn1702](#)
 
@@ -22,7 +22,7 @@
 
 ## Circular Linked List
 
-- [lxxjn0](#)
+- [lxxjn0](./circular-linked-list/lxxjn0/README.md)
 
 - [dusdn1702](#)
 
@@ -32,7 +32,7 @@
 
 ## Double Linked List
 
-- [lxxjn0](#)
+- [lxxjn0](./double-linked-list/lxxjn0/README.md)
 
 - [dusdn1702](#)
 
